@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Change Your Perspective To Solve Your Problems
 
-![ChienVT's GitHub stats](https://github-readme-stats.vercel.app/api?username=chienrb&count_private=true&show_icons=true&theme=dark)
+![ChienVT's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchien&count_private=true&show_icons=true&theme=dark)
 
 <!---
 chienrb/chienrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
